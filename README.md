@@ -1,4 +1,4 @@
-# Юнит тесты для сервиса Stellar Burgers[a relative link](https://stellarburgers.nomoreparties.site/)
+# Юнит тесты для сервиса [Stellar Burgers](https://stellarburgers.nomoreparties.site/)
 # Задачи проекта
 1. Покрыть тестами классы:
 - Bun
